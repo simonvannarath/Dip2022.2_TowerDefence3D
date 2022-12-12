@@ -1,11 +1,17 @@
 {
   "dependencies": {
+    "com.psydack.uimgui": {
+      "version": "https://github.com/psydack/uimgui.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1957436cf805ff960e92aea2e50135289338164a"
+    },
     "com.unity.collab-proxy": {
-      "version": "1.15.4",
+      "version": "1.15.18",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "2.0.0",
         "com.unity.services.core": "1.0.1"
       },
       "url": "https://packages.unity.com"
@@ -27,7 +33,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.12",
+      "version": "2.0.16",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -42,13 +48,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "2.0.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.services.core": {
       "version": "1.0.1",
       "depth": 1,
@@ -59,7 +58,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.29",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
